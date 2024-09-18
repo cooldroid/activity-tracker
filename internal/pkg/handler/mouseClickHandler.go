@@ -3,8 +3,8 @@ package handler
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/prashantgupta24/activity-tracker/pkg/activity"
-	"github.com/prashantgupta24/activity-tracker/pkg/system"
+	"github.com/cooldroid/activity-tracker/pkg/activity"
+	"github.com/cooldroid/activity-tracker/pkg/system"
 	hook "github.com/robotn/gohook"
 )
 

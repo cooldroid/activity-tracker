@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/prashantgupta24/activity-tracker/pkg/activity"
-	"github.com/prashantgupta24/activity-tracker/pkg/system"
+	"github.com/cooldroid/activity-tracker/pkg/activity"
+	"github.com/cooldroid/activity-tracker/pkg/system"
 	log "github.com/sirupsen/logrus"
 )
 

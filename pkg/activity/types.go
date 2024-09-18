@@ -1,6 +1,6 @@
 package activity
 
-import "github.com/prashantgupta24/activity-tracker/pkg/system"
+import "github.com/cooldroid/activity-tracker/pkg/system"
 
 //Type of activity as defined below
 type Type string

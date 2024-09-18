@@ -4,9 +4,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/prashantgupta24/activity-tracker/internal/pkg/handler"
-	"github.com/prashantgupta24/activity-tracker/pkg/activity"
-	"github.com/prashantgupta24/activity-tracker/pkg/system"
+	"github.com/cooldroid/activity-tracker/internal/pkg/handler"
+	"github.com/cooldroid/activity-tracker/pkg/activity"
+	"github.com/cooldroid/activity-tracker/pkg/system"
 )
 
 //Instance is an instance of the tracker
